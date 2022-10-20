@@ -9,4 +9,11 @@
     text-align: center;
     margin: auto;
 }
-/* Hello */
+
+.nav-link-issues {
+  color: rgb(170, 170, 170);
+}
+
+.nav-link-issues.hover {
+  color: black;
+}
