@@ -10,10 +10,10 @@
     margin: auto;
 }
 
-.nav-link-issues {
+.issues {
   color: rgb(170, 170, 170);
 }
 
-.nav-link-issues.hover {
+.issues.hover {
   color: black;
 }
