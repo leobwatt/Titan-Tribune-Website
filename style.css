@@ -1,7 +1,7 @@
 .currentIssue {
-  height: 500px;
-  width: 800px;
-  display: block;
+  height: 500;
+  width: 800;
+  align-content: center;
   margin-left: auto;
   margin-right: auto;
 }
