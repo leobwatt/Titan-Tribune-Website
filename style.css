@@ -1,7 +1,5 @@
 .currentIssue {
-  height: 500;
-  width: 800;
-  align-content: center;
-  margin-left: auto;
-  margin-right: auto;
+  height: 800pt;
+  width: 80%;
+  margin: auto;
 }
