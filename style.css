@@ -56,7 +56,6 @@
   overflow-x: hidden;
   padding: 8px 0;
   transition: 0.3s;
-  visibility: hidden;
 }
 
 .sidenav:hover {
@@ -70,6 +69,7 @@
   font-size: 25px;
   color: #2196F3;
   display: block;
+  visibility: hidden;
 }
 
 .sidenav a:hover {
