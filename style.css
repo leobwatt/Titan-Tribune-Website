@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
 .currentIssueTitle {
   text-align: center;
   margin: 20pt;
@@ -26,4 +28,21 @@
   margin: 30pt;
   font-family: 'Times New Roman', Times, serif;
   font-weight: bold;
+}
+
+.paragraph { 
+  color: black; 
+  font-family:"Times New Roman", serif; 
+  font-size: 16pt; 
+  margin:0pt; 
+  padding-top: 8pt;
+  padding-left: 5pt;
+  text-indent: 36pt;
+  text-align: left;
+}
+
+.article {
+  padding: 50px; 
+  margin-left: 50px; 
+  margin-right: 150px;
 }
