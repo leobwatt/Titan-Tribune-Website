@@ -56,15 +56,12 @@
   overflow-x: hidden;
   padding: 8px 0;
   transition: 0.3s;
+  --vis: hidden;
 }
 
 .sidenav:hover {
   right: 0px;
-  --vis:visible;
-}
-
-.sidenav:not(:hover) {
-  --vis:hidden;
+  --vis: visible;
 }
 
 .sidenav a {
