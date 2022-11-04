@@ -60,6 +60,9 @@
 
 .sidenav:hover {
   right: 0px;
+}
+
+.sidenav:hover .a {
   visibility: visible;
 }
 
