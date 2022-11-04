@@ -77,7 +77,7 @@
 /* On phones, where width is less than 500px, change the style of the sidebar (protrudes more) */
 @media only screen and (max-width: 600px) {
   .sidenav {right: -100px;}
-  body {background-color: #2196F3;}
+  .sidenav a {display: none;}
 }
 
 /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
