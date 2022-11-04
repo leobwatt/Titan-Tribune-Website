@@ -70,7 +70,7 @@
   font-size: 25px;
   color: #2196F3;
   display: block;
-  visibility: --vis;
+  visibility: var(--vis);
 }
 
 .sidenav a:hover {
