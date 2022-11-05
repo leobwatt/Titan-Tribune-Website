@@ -30,6 +30,17 @@
   font-weight: bold;
 }
 
+.title {
+  color: black; 
+  font-family:"Times New Roman", serif; 
+  font-size: 24pt; 
+  margin:0pt; 
+  padding-top: 10pt;
+  padding-left: 5pt;
+  text-indent: 36pt;
+  text-align: left;
+}
+
 .paragraph { 
   color: black; 
   font-family:"Times New Roman", serif; 
