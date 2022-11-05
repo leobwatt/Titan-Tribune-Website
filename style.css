@@ -46,6 +46,14 @@
   margin-left: 20px;
 }
 
+#climateAgricultureImg {
+  max-width: 80%;
+  height: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .sidenav {
   width: 130px;
   position: fixed;
