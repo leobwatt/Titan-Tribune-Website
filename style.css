@@ -61,11 +61,21 @@
   color: rgb(63, 63, 63); 
   font-family:"Times New Roman", serif; 
   font-size: 12pt; 
-  margin:0pt; 
+  margin-left: auto;
+  margin-right: auto; 
   padding-top: 2pt;
   padding-bottom: 10pt;
   text-align: center;
   display: block;
+}
+
+#climateAgricultureImg {
+  width: 276pt;
+  height: 490.5pt;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+  padding-top: 10pt;
 }
 
 .sidenav {
