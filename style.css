@@ -70,8 +70,8 @@
 }
 
 #climateAgricultureImg {
-  width: 490.5pt;
-  height: 276pt;
+  max-width: 80%;
+  height: auto;
   display: block;
   margin-left: auto;
   margin-right: auto; 
